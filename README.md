@@ -121,7 +121,7 @@ This is an analytical and educational tool. Its forecasts must **not** be used i
 - **Como rodar:** abra o notebook no Google Colab e execute as células em ordem; nenhuma estrutura local é necessária.
 - **Uso responsável:** ferramenta analítica e educacional — não substitui estações regulatórias, orientação médica nem protocolos oficiais.
 
-> 📄 A documentação técnica detalhada está em [`read.me`](read.me) neste repositório.
+> 📄 A documentação técnica detalhada (metodologia completa, métricas, limitações e uso responsável) está em [`DOCUMENTACAO_TECNICA.md`](DOCUMENTACAO_TECNICA.md).
 
 ## Author
 
